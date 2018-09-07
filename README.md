@@ -6,4 +6,4 @@ Spring MVC Sample project
 mvn jetty:run
 
 # Url
-localhost:8080/hello
+http://localhost:8080/hello
